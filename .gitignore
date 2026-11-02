@@ -1,0 +1,11 @@
+*.bak
+*.cfg
+*.conf
+*password*
+*passwd*
+*secret*
+*.key
+*.pem
+.env
+.DS_Store
+Thumbs.db
