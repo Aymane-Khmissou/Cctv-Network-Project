@@ -28,15 +28,15 @@ The client's main concern was **security**. The existing setup had been poorly i
 | Equipment | Details |
 | --- | --- |
 | Recorder | Dahua XVR (4.0) |
-| Cameras | 6 cameras, model: \[brand/model, resolution\] |
-| Storage | Hard drive: \[capacity\] TB |
+| Cameras | 6 cameras
+| Storage | Hard drive: 2 TB |
 | Router | Huawei |
-| Switch | TP-Link \[model\] |
+| Switch | TP-Link  |
 | Display | 1 large monitor + 1 TV (live view) |
 | Computers | 2 PCs |
 | Phone | 1 mobile phone (remote viewing) |
 | Printer | Connected directly to the system/PC |
-| Ticketing system | \[Model\], integrated with the printer |
+| Ticketing system | HP, integrated with the printer |
 
 ## 4. Network Architecture
 
