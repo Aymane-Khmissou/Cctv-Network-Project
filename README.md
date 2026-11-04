@@ -111,7 +111,7 @@ The client's main concern was **security**. The existing setup had been poorly i
 
 ```
 cctv-network-project/
-├── README.md / README.fr.md
+├── README.md
 ├── docs/
 │   ├── network-architecture.md   # diagram (Mermaid) + explanation
 │   ├── equipment-list.md         # bill of materials
